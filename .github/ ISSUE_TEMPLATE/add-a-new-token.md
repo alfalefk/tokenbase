@@ -36,7 +36,8 @@ Got questions? Join
 **At least 2 links to third-party reviews or discussion of the token, the project/product, or the token issuer:**
 <!--
 Reviews must include review of project vision, team, milestones, or existing product.
-
+https://www.lefkcoin.com/441926629
+https://www.lefkcoin.com/441927157
 Links should be of at least two distinct kinds, including, but is not limited to: articles in the media, independent blog posts, ICO reviews, third party reporting on established company partnerships, specific comments in BitcoinTalk threads.
 Note:
 * We are looking for substance in reviews. BitcoinTalk announcements and ICO aggregator pages are NOT an acceptable source. Reviews like "Interesting project, good luck", "to the moon" are NOT acceptable.
